@@ -1,0 +1,29 @@
+{
+  "name": "nodecontactform",
+  "version": "1.0.0",
+  "description": "Sample app using nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node your-script.js",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "nodemailer": "^6.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradtraversy/nodecontactform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bradtraversy/nodecontactform/issues"
+  },
+  "homepage": "https://github.com/bradtraversy/nodecontactform#readme"
+}
